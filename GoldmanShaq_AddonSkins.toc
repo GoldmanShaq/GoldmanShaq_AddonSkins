@@ -1,10 +1,10 @@
 ## Interface: 120105, 16001
 ## Title: GoldmanShaq AddonSkins
 ## Notes: Skins third-party addons to match EllesmereUI. Includes SavedInstances and BetterAddonList.
-## Author: Shaq
+## Author: GoldmanShaq
 ## Category: Goldman Shaq
 ## Version: 1.1.1
-## IconTexture: Interface\AddOns\GoldmanShaq_SharedMedia\logo
+## IconTexture: Interface\AddOns\GoldmanShaq_AddonSkins\logo
 ## OptionalDeps: EllesmereUI, LibSharedMedia-3.0, LibStub, SavedInstances, BetterAddonList
 
 Core.lua
