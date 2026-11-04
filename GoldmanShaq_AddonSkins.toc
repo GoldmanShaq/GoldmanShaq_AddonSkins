@@ -3,7 +3,7 @@
 ## Notes: Skins third-party addons to match EllesmereUI. Includes SavedInstances and BetterAddonList.
 ## Author: Shaq
 ## Category: Goldman Shaq
-## Version: 1.1.0
+## Version: 1.1.1
 ## IconTexture: Interface\AddOns\GoldmanShaq_SharedMedia\logo
 ## OptionalDeps: EllesmereUI, LibSharedMedia-3.0, LibStub, SavedInstances, BetterAddonList
 
